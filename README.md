@@ -1,3 +1,4 @@
+![Output](SalesAnalysis/output.png)
 # Sales Analysis
 
 This repository contains an analysis of sales data. The data includes information about the quantity of products ordered, their prices, and the total sales for each month and city.
